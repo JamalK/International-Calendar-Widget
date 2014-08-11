@@ -7,7 +7,7 @@ This Widget is demonstartion for sending data between an App, and an Extension (
 ![](screenshot1.png) ![](screenshot2.png)![](screenshot3.png)
 
 ### License
-International Calendar Widget is under MIT Liscence. Check the liscense file for more information.
+International Calendar Widget is under MIT Licence. Check the license file for more information.
 
 
 ### Contact Info
